@@ -1,0 +1,1 @@
+The MazeQuest game is a terminal-based adventure game created as part of our Algorithm Problem Solving (APS) course during the first semester. In this game, players navigate through various maze levels to reach a bouquet while avoiding hidden monsters that can hinder their progress.
